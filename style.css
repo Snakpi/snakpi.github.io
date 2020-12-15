@@ -1,0 +1,30 @@
+body {
+  font-family: Helvetica;
+}
+section#title {
+  background-image: url('./pics/tiles.webp');
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+header.title {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes-header {
+  background-color: mediumspringgreen;
+}
+.frames-header {
+  background-color: lightcoral;
+}
+.paint-header {
+  background-color: skyblue;
+}
+
+.blue-span {
+  font-weight: bold;
+  color: blue;
+}
